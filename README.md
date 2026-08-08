@@ -1,10 +1,6 @@
 # Marketing-Campaign-Analytics-Customer-Conversion-Dashboard
 Marketing Campaign Analytics Customer Conversion Dashboard , Analyzed campaign, customer, and channel performance using SQL, Python, Pandas, and Power BI. Developed an interactive dashboard to track conversion rate, CAC, ROMI, CTR, CPL, customer engagement, and generate data-driven marketing recommendations.
 
-
-Absolutely. For a technical assessment, your README should clearly show the **business problem → data preparation → analysis → KPIs → dashboard → insights → recommendations**.
-
-````markdown
 # 📊 Marketing Campaign Analytics & Customer Conversion Dashboard
 
 ## 📌 Project Overview
