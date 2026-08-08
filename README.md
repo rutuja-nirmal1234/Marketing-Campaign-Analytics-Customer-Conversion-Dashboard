@@ -61,34 +61,6 @@ This project addresses these questions through data analysis and an interactive 
 
 ---
 
-## 📂 Project Structure
-
-```text
-Marketing-Campaign-Analytics/
-│
-├── 📁 Python/
-│   └── Marketing_Analytics_EDA.ipynb
-│
-├── 📁 SQL/
-│   └── Marketing_Analytics_Queries.sql
-│
-├── 📁 PowerBI/
-│   └── Marketing_Analytics_Dashboard.pbix
-│
-├── 📁 Dataset/
-│   └── Marketing_Dataset.csv
-│
-├── 📁 Images/
-│   ├── Dashboard_Overview.png
-│   ├── Customer_Segmentation.png
-│   ├── Campaign_Performance.png
-│   └── Conversion_Funnel.png
-│
-└── README.md
-````
-
----
-
 ## 📊 Dataset Description
 
 The dataset contains marketing campaign and customer-related information used to analyze campaign effectiveness and customer conversion.
